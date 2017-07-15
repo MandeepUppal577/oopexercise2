@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace oopexercise2
 {
-    class Program
+    class MyDate
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("");
-        }
+        
     }
 }
